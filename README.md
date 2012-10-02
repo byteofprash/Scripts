@@ -1,4 +1,4 @@
 Scripts
 =======
 
-Few python scripts that does specific jobs. 
+Few python scripts that makes life suck less.
