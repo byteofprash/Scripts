@@ -1,4 +1,4 @@
 Scripts
 =======
 
-Few python scripts that makes life suck less.
+Few python scripts that makes life suck _less_.
